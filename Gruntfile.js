@@ -22,7 +22,7 @@ module.exports = function(grunt) {
         }
       }
     },
-    bumpup: ['bower.json', 'package.json', 'xtag.json'],
+    bumpup: ['bower.json', 'package.json'],
     tagrelease: {
       file: 'package.json',
       prefix: '',
