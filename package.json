@@ -6,7 +6,7 @@
     "bower": "~0.7.0",
     "grunt": "~0.4.0",
     "grunt-contrib-concat": "~0.4.0",
-    "grunt-smush-components": "~1.0.3",
+    "grunt-smush-components": "~0.1.3",
     "grunt-contrib-jshint": "~0.10.0",
     "grunt-tagrelease": "~0.2.0",
     "grunt-bumpup": "~0.2.0",
